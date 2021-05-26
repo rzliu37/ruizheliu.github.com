@@ -1,5 +1,8 @@
 ## 刘睿喆 Ruizhe Liu
 
+![GitHub Logo](/C:/Users/rzliu/Pictures/rzliu.jpg)
+Format: ![Alt Text](url)
+
 Ph.D student in evolutionary anthropology program, University of New Mexico
 
 
