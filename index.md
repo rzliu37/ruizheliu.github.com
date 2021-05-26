@@ -1,7 +1,9 @@
 ## <img src="https://github.com/rzliu37/ruizheliu.github.com/blob/gh-pages/rzliu.jpg" width="170" height="200">  刘睿喆（Ruizhe Liu）  
 
 
-Ph.D student in evolutionary anthropology program, University of New Mexico
+Graduate Student
+
+Evolutionary anthropology Ph.D program, University of New Mexico
 
 <mailto:rzliu@unm.edu> 
 
