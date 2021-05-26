@@ -1,6 +1,7 @@
 ## 刘睿喆 Ruizhe Liu
 
-![Image of RZL](C:/Users/rzliu/Pictures/rzliu.jpg)
+<img width="150" height="150" src=“https://github.com/rzliu37/ruizheliu.github.com/blob/gh-pages/rzliu.jpg”>
+
 
 
 
