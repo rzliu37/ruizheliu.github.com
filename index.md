@@ -1,10 +1,11 @@
-## 刘睿喆 Ruizhe Liu
+## <img src="https://github.com/rzliu37/ruizheliu.github.com/blob/gh-pages/rzliu.jpg" width="170" height="200">  刘睿喆（Ruizhe Liu）  
 
-<mailto:rzliu@unm.edu>
-
-<img src="https://github.com/rzliu37/ruizheliu.github.com/blob/gh-pages/rzliu.jpg" width="150" height="200">
 
 Ph.D student in evolutionary anthropology program, University of New Mexico
+
+<mailto:rzliu@unm.edu> 
+
+<mailto:liurz0307@gmail.com>   
 
 
 
