@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 刘睿喆 Ruizhe Liu
 
 You can use the [editor on GitHub](https://github.com/rzliu37/ruizheliu.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
